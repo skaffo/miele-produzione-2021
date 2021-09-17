@@ -547,15 +547,6 @@ ul.conta_top li a {
      position: relative;
 }
 
-.about::before {
-     position: absolute;
-     content: "";
-     background: url(../images/about_left.png);
-     background-repeat: no-repeat;
-     width: 360px;
-     height: 212px;
-     top: 0;
-}
 
 .about .titlepage {
      padding-bottom: 0;
